@@ -1,2 +1,2 @@
 # Coursera_Capstone
-IBM DS Coursera_Capstone
+Capstone project for IBM Data Science Course
